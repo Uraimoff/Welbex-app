@@ -29,7 +29,7 @@ const Navigation = () => {
 };
 
 const NavLink = ({ text }) => (
-  <a href="#" className="hover-this">
+  <a href="https://t.me/ibrohim_uraimov" className="hover-this">
     <span>{text}</span>
   </a>
 );
